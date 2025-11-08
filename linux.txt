@@ -1,0 +1,56 @@
+Soal:
+1. Apa perbedaan file system Linux dan Windows?
+2. Berikan gambar struktur file system Linuxx dan Windows?
+3. Apa yang di maksud direktor, folder, dan file?
+4. Sebutkan 5 file extension dan jelaskan?
+5. Sebutkan masing-masing 5 perintah mengakses file di Linux dan Windows?
+6. Apa perbedaan terminal dan command prompt?
+
+jawab:
+1. Perbedaan utamanya adalah Windows menggunakan sistem berkas seperti NTFS dengan struktur direktori yang terpisah per drive (C:, D:), sedangkan Linux menggunakan sistem berkas seperti ext4 dengan struktur pohon tunggal yang dimulai dari direktori akar (/), di mana semua perangkat (termasuk drive lain) terhubung sebagai "file". Selain itu, Linux lebih fleksibel dalam manajemen izin dan penamaan file yang peka huruf besar-kecil, sementara Windows lebih terbatas. 
+2.  Linux:
+ 
+ Windows: 
+ 
+3. Direktori, folder, dan file adalah komponen untuk menyimpan dan mengatur data di komputer. File adalah unit dasar penyimpanan data yang berisi informasi (seperti dokumen, gambar, atau video). Folder adalah wadah untuk menyimpan dan mengelompokkan file-file agar lebih teratur, sementara direktori adalah istilah teknis yang lebih merujuk pada sistem hierarki penyimpanan yang lebih kompleks, di mana folder itu sendiri bisa berada di dalam direktori lain. 
+4. 1. .docx
+Jenis: Dokumen Microsoft Word
+Penjelasan: Ini adalah format dokumen standar untuk Microsoft Word. File ini dapat berisi teks, gambar, tabel, dan elemen lainnya. 
+2. .jpg atau .jpeg 
+Jenis: Gambar
+Penjelasan: Singkatan dari {l#Joint Photographic Experts Group}, ini adalah format gambar yang umum digunakan untuk foto karena kompresi yang efisien, yang menghasilkan ukuran file yang relatif kecil dengan kualitas yang tetap baik. 
+3. .mp3
+Jenis: Audio
+Penjelasan: Format audio yang sangat populer. Ekstensi ini menunjukkan bahwa file tersebut adalah file audio yang terkompresi. 
+4. .pptx 
+Jenis: Presentasi Microsoft PowerPoint
+Penjelasan: Format file standar untuk presentasi yang dibuat dengan Microsoft PowerPoint. File ini dapat berisi slide, teks, gambar, dan grafik. 
+5. .pdf
+Jenis: Dokumen Portable Document Format
+Penjelasan: PDF (Portable Document Format) digunakan untuk menyajikan dokumen dengan cara yang independen dari perangkat lunak, perangkat keras, dan sistem operasi. Format ini sering digunakan untuk dokumen yang tidak ingin diubah. 
+5. Linux 
+Perintah-perintah ini digunakan di Terminal Linux. 
+1.ls : Menampilkan daftar file dan direktori dalam direktori saat ini.
+2.cd : Mengubah direktori kerja saat ini (misalnya, cd Documents).
+3.cp : Menyalin file atau direktori (misalnya, cp file1.txt file2.txt).
+4.mv : Memindahkan atau mengubah nama file dan direktori (misalnya, mv oldname.txt newname.txt).
+5.rm : Menghapus file (misalnya, rm file.txt). Untuk menghapus direktori, sering digunakan opsi -r (rekursif). 
+Windows
+Perintah-perintah ini digunakan di Command Prompt (CMD) Windows. 
+1.dir : Menampilkan daftar file dan direktori dalam direktori saat ini.
+2.cd : Mengubah direktori kerja saat ini (sama dengan Linux).
+3.copy : Menyalin file dari satu lokasi ke lokasi lain (misalnya, copy file1.txt file2.txt).
+4.move : Memindahkan file atau mengubah nama file/direktori (mirip dengan mv di Linux).
+5.del : Menghapus satu atau lebih file (misalnya, del file.txt). Untuk menghapus folder, digunakan perintah rd atau rmdir. 
+6. terminal adalah emulator atau perangkat keras/lunak yang menampilkan baris perintah, sedangkan command prompt adalah antarmuka baris perintah (shell) spesifik yang berjalan di dalamnya. Command Prompt adalah shell untuk Windows, sedangkan terminal adalah perangkat yang bisa menjalankan berbagai jenis shell, termasuk Command Prompt di Windows atau Bash/Zsh di Linux/macOS. 
+
+
+
+
+
+
+
+
+
+
+
